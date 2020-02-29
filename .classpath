@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/apache-poi/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="lib/apache-poi/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="lib/apache-poi/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="lib/apache-poi/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="lib/apache-poi/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="lib/apache-poi/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="lib/apache-commons-math/commons-math3-3.6.1-tools.jar"/>
+	<classpathentry kind="lib" path="lib/apache-commons-math/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/apache-commons-lang/commons-lang3-3.8.jar"/>
+	<classpathentry kind="lib" path="lib/jenetics/jenetics-4.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/jenetics/jenetics.ext-4.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/jenetics/jenetics.prog-4.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/jenetics/jenetics.tool-4.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/jenetics/jenetics.xml-4.2.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

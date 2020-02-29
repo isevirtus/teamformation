@@ -1,0 +1,6 @@
+Configuration;Distance Measure;Optimal Solution;Found Solution;Offspring Selector;Suvivor Selector;Crossover Rate;Mutation Rate;Population Size;Steady Fitness;Origin Generation;Generation Count;Fitness Value;Match Rate;Time;
+fixed-dev_01_#01;ManhattanDistance;{d00,d00,d00,d00,d00};{d28,d41,d40,d42,d04};TournamentSelector;EliteSelector;0,50;0,05;500;20;2;21;1,7371;0,0000;1,152163
+fixed-dev_01_#01;ManhattanDistance;{d00,d00,d00,d00,d00};{d28,d41,d40,d42,d04};TournamentSelector;EliteSelector;0,50;0,05;500;20;1;20;1,7371;0,0000;0,743633
+fixed-dev_01_#01;ManhattanDistance;{d00,d00,d00,d00,d00};{d28,d41,d40,d04,d42};TournamentSelector;EliteSelector;0,50;0,05;500;20;1;20;1,7371;0,0000;0,719158
+fixed-dev_01_#01;ManhattanDistance;{d00,d00,d00,d00,d00};{d28,d41,d40,d04,d42};TournamentSelector;EliteSelector;0,50;0,05;500;20;1;20;1,7371;0,0000;0,499083
+fixed-dev_01_#01;ManhattanDistance;{d00,d00,d00,d00,d00};{d28,d41,d42,d40,d04};TournamentSelector;EliteSelector;0,50;0,05;500;20;1;20;1,7371;0,0000;0,517150

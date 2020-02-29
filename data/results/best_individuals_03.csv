@@ -1,0 +1,2 @@
+Configuration;Distance Measure;Optimal Solution;Found Solution;Offspring Selector;Suvivor Selector;Crossover Rate;Mutation Rate;Population Size;Steady Fitness;Origin Generation;Generation Count;Fitness Value;Match Rate;Time;
+best_individuals_03_#01;ManhattanDistance;{d52,d11,d49,d42,d14,d51};{d52,d49,d51,d42,d14,d11};TournamentSelector;EliteSelector;0,50;0,05;500;5;1;5;0,9760;1,0000;0,159387
